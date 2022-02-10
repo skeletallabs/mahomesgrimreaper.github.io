@@ -135,7 +135,7 @@ page-img: "/assets/img/mahomes_grim_reaper.jpg"
 # --- Web Analytics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "G-QHDQNLQJ9E"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
 #google_analytics: ""

@@ -2,6 +2,8 @@
 layout: page
 title: About MahomesGrimReaper
 subtitle:
+share-title: About MahomesGrimReaper
+share-description: "Andy Reid to Mahomes before the 13 second, game-winning drive: When it's grim, be the Grim Reaper."
 ---
 
 <style>

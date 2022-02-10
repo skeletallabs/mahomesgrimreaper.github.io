@@ -2,6 +2,7 @@
 layout: page
 title: Privacy Policy
 subtitle:
+share-title: Privacy Policy
 ---
 
 <style>
